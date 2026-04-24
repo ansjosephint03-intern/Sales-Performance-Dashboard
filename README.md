@@ -1,6 +1,7 @@
 # 📊 Sales Performance Dashboard
 
 > Built to analyze sales trends, profitability, and regional performance using Power BI to support data-driven business decisions.
+> End-to-end Power BI project demonstrating data cleaning, modeling, and business insight generation.
 
 ---
 
@@ -28,7 +29,7 @@ This project presents an interactive Sales Performance Dashboard developed using
 ---
 
 ## 📂 Dataset
-Dataset: Global Superstore sample dataset
+Dataset: Global Superstore sample dataset  
 This project uses a sample retail dataset (Global Superstore dataset), commonly used for sales analysis and business intelligence projects.
 
 ---
@@ -65,6 +66,13 @@ This project uses a sample retail dataset (Global Superstore dataset), commonly 
 
 ---
 
+## 📊 Impact
+- Enables quick identification of high-performing categories and regions  
+- Improves decision-making efficiency through interactive dashboard insights  
+- Helps businesses prioritize profitable segments and optimize performance  
+
+---
+
 ## 📊 Recommendations
 - Focus on expanding the Technology category due to its high profitability  
 - Optimize Office Supplies strategy to further improve efficiency  
@@ -76,6 +84,7 @@ This project uses a sample retail dataset (Global Superstore dataset), commonly 
 ![Dashboard](Dashboard.png)
 
 ---
+
 ## 📂 Project Structure
 ```
 Sales-Performance-Dashboard/
