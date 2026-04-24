@@ -1,27 +1,34 @@
 # 📊 Sales Performance Dashboard
 
-> An interactive Power BI dashboard designed to analyze sales performance, identify profitability drivers, and support data-driven business decisions.
+> Built to analyze sales trends, profitability, and regional performance using Power BI to support data-driven business decisions.
 
 ---
 
 ## 📌 Overview
-This project presents a comprehensive Sales Performance Dashboard built using Power BI. It focuses on analyzing business performance across categories, regions, and time to uncover meaningful insights and trends.
+This project presents an interactive Sales Performance Dashboard developed using Power BI. It provides a comprehensive view of business performance across categories, regions, and time, enabling stakeholders to quickly identify trends, measure profitability, and make informed decisions.
 
 ---
 
 ## 🎯 Objectives
-- Monitor overall sales, profit, and order volume  
+- Track overall sales, profit, and order volume  
 - Identify top-performing categories and regions  
 - Analyze sales trends over time  
-- Evaluate profitability using key performance indicators  
+- Evaluate profitability using key metrics  
 
 ---
 
-## ⚙️ Project Workflow
-- Cleaned and transformed raw data using Power Query  
-- Created calculated measures using DAX (Profit Margin, Average Order Value)  
-- Designed an interactive dashboard with slicers for dynamic filtering  
-- Built visualizations for trend analysis, regional performance, and category comparison  
+## 🔄 End-to-End Process
+- Collected and explored the dataset  
+- Cleaned and transformed data using Power Query  
+- Built data model and relationships  
+- Created DAX measures (Profit Margin, Average Order Value)  
+- Designed an interactive dashboard with slicers and visuals  
+- Derived insights to support business decisions  
+
+---
+
+## 📂 Dataset
+This project uses a sample retail dataset (Global Superstore dataset), commonly used for sales analysis and business intelligence projects.
 
 ---
 
@@ -57,9 +64,40 @@ This project presents a comprehensive Sales Performance Dashboard built using Po
 
 ---
 
+## 📊 Recommendations
+- Focus on expanding the Technology category due to its high profitability  
+- Optimize Office Supplies strategy to further improve efficiency  
+- Strengthen presence in high-performing regions like Western Europe  
+
+---
+
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard.png)
 
 ---
 
 ## 📂 Project Structure
+Sales-Performance-Dashboard/
+│
+├── sales_dashboard.pbix
+├── dashboard.png
+└── README.md
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file  
+2. Open it in Power BI Desktop  
+3. Use slicers to explore different insights  
+
+---
+
+## 🔮 Future Improvements
+- Add drill-through analysis for deeper insights  
+- Include customer segmentation  
+- Implement forecasting for sales prediction  
+
+---
+
+## 📬 Contact
+Feel free to connect for feedback or collaboration.
