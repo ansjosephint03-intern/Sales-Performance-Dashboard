@@ -75,14 +75,14 @@ This project uses a sample retail dataset (Global Superstore dataset), commonly 
 ![Dashboard](dashboard.png)
 
 ---
-
 ## 📂 Project Structure
+```
 Sales-Performance-Dashboard/
 │
 ├── sales_dashboard.pbix
 ├── dashboard.png
 └── README.md
-
+```
 ---
 
 ## 🚀 How to Use
