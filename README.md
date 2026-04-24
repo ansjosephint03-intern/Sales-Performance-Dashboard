@@ -28,6 +28,7 @@ This project presents an interactive Sales Performance Dashboard developed using
 ---
 
 ## 📂 Dataset
+Dataset: Global Superstore sample dataset
 This project uses a sample retail dataset (Global Superstore dataset), commonly used for sales analysis and business intelligence projects.
 
 ---
