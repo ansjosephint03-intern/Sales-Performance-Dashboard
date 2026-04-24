@@ -1,12 +1,12 @@
 # 📊 Sales Performance Dashboard
 
 ## 📌 Overview
-This project presents a Sales Performance Dashboard built using Power BI to analyze business performance across categories, regions, and time.
+This project presents a Power BI dashboard designed to analyze sales performance across categories, regions, and time.
 
 ---
 
 ## 🎯 Objectives
-- Track overall sales, profit, and order volume  
+- Track total sales, profit, and order volume  
 - Identify top-performing categories and regions  
 - Analyze sales trends over time  
 - Evaluate profitability using key metrics  
