@@ -28,8 +28,7 @@ This project presents an interactive Sales Performance Dashboard developed using
 
 ---
 
-## 📂 Dataset
-Dataset: Global Superstore sample dataset  
+## 📂 Dataset  
 This project uses the Global Superstore dataset, a widely used retail dataset for sales and business analysis.
 
 ---
@@ -96,9 +95,8 @@ Sales-Performance-Dashboard/
 ---
 
 ## 🚀 How to Use
-1. Download the `.pbix` file  
-2. Open it in Power BI Desktop  
-3. Use slicers to explore different insights  
+1. Download the Sales_Dashboard.pbix file and open it in Power BI Desktop.  
+2. Use slicers to explore different insights  
 
 ---
 
